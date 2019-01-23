@@ -3,7 +3,7 @@ Project 1.1 : A diamond distributor has recently decided to exit the market and 
 
 Project: Diamond Prices 
 # Step 1: Understanding the Model
-- Answer the following questions:
+
 # 1.	According to the model, if a diamond is 1 carat heavier than another with the same cut, how much more should I expect to pay? Why?
 In the given linear regression equation, coefficient for carat is 8413, hence if a diamond is 1 carat heavier than another with the same cut, increase in the price would be $8413.
 
